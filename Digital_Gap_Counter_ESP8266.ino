@@ -57,15 +57,15 @@ On ESP8266, the SD CS pin is on GPIO 15, on Atmel M0 or 32u4 it's on GPIO 10.
 
 
 // WLAN parameters
-#define WLAN_SSID       "CenturyLink2452"
-#define WLAN_PASS       "nkfsam69sgw47d"
+#define WLAN_SSID       "ssid"
+#define WLAN_PASS       "pwd"
 // Security can be WLAN_SEC_UNSEC, WLAN_SEC_WEP, WLAN_SEC_WPA or WLAN_SEC_WPA2
 #define WLAN_SECURITY   WLAN_SEC_WPA2
 
 // Carriots parameters
 #define WEBSITE  "api.carriots.com"
-#define API_KEY "db63f32a73979c66963f14378ff539cfe09f1e7b3c0ba766c7dab43026dd8634"
-#define DEVICE  "FeatherESP8266@bobedm.bobedm"
+#define API_KEY "key"
+#define DEVICE  "device"
 
 byte mac[] = { 0x18, 0xFE, 0x34, 0xD3, 0x84, 0x44 };
 IPAddress ip(10,0,1,47);       // Your IP Address
