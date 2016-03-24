@@ -1,4 +1,4 @@
-# DIY Traffic Counter
+# The Seattle DIY Traffic Counter
 The Seattle traffic counter was developed by by Bob Edmiston between 2013 and 2016 in response to the need for an efficient and inexpensive way for citizen advocates to collect counts for bicycles, pedestrians and motor vehicle traffic for the purpose of advocating for safer streets.  
 
 
